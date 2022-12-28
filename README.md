@@ -1,6 +1,6 @@
-# learning-C-language
+# learning
 
-该项目是用于私人的 C 语言学习。
+该项目是用于私人的学习用途。
 
 ## 编写要求
 
