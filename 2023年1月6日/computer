@@ -1,0 +1,15 @@
+# C language
+##  1  basic program
+
+#include<stdio.h>
+int(){
+main("hello world /n")
+return 0
+}
+
+## 2  tool
+we need test edir and compiler
+
+# question
+1 download IDE is success , but can't use it run program
+2 how to use the PR 
