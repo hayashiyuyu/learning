@@ -1,8 +1,8 @@
 # Clanguage
 
-## 
+## basic knowlage
 
-###```#include<stdio.h>```
+### ```#include<stdio.h>```
 
 - ```#include<stdio.h>``` is the nessary thing in C language , I just think it is a type title for text.
 
