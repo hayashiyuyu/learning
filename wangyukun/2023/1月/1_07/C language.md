@@ -1,12 +1,18 @@
-## ```#include<stdio.h>```
+# C language
+
+## basic knowlage
+
+### ```#include<stdio.h>```
 
 - ```#include<stdio.h>``` is the nessary thing in C language , I just think it is a type title for text.
 
-## ```printf``` function
+## function
+
+### ```printf``` function
 
 - ```printf``` is used to make the text result for screen.
 
-## ```main``` function
+### ```main``` function
 
 - We must write the code in {  } by ```main```
 
@@ -24,8 +30,8 @@
 
 - ```char``` —— single character， and must add ```' '```
 
-## syntax
+### syntax for date type
 
-- type name number
+> type name number
 
-- like "int a = 1 "
+> like "int a = 1 "
