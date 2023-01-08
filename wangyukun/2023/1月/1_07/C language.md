@@ -1,4 +1,4 @@
-# Clanguage
+# C language
 
 ## basic knowlage
 
