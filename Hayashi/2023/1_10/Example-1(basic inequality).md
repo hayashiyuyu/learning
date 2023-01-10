@@ -21,6 +21,6 @@ sqrt(x*1/x) <= x+1/x/2 ;
 so the minimum of x+1/x is 2.
 ```
 ## Practice
-[click here](https://github.com/hayashiyuyu/learning/blob/main/Hayashi/2023/1_10/basic%20inequality%20practice%201%20.md)
+[click here](https://github.com/microseyuyu/learning-C-language/blob/main/Hayashi/2023/1_10/inequality%20practice%201%20.md)
 
 [basic](https://github.com/microseyuyu/learning-C-language/blob/main/Hayashi/2023/1_10/basic%20practice.md)
