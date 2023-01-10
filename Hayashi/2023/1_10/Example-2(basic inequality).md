@@ -32,3 +32,4 @@ from the formula above we could learn:
 
 [click here](https://github.com/microseyuyu/learning-C-language/blob/main/Hayashi/2023/1_10/basic%20inequality%20practice%201%20.md)
 
+[basic](https://github.com/microseyuyu/learning-C-language/blob/main/Hayashi/2023/1_10/basic%20practice.md)
