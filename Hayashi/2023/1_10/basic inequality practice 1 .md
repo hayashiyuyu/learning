@@ -14,4 +14,4 @@
 
 ```A.-4```	```B．4```	```C．8```	```D．-8```
 
-[Answer]()
+[Answer](https://github.com/microseyuyu/learning-C-language/blob/main/Hayashi/2023/1_10/Answer-1.md)
