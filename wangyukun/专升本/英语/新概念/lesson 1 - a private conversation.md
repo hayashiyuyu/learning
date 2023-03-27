@@ -37,4 +37,5 @@ But the young man said, " This is a private conversation".
 
 ## 背诵录音
 
- https://cowtransfer.com/s/d067f8ee64c142 点击链接查看 [ lesson-1-a-private-conversation.mp3 ] ，或访问奶牛快传 cowtransfer.com 输入传输口令 h5lyiv 查看；
+链接: https://pan.baidu.com/s/1ML7jK5BgHc_H3ELyUamjQA 提取码: 7wnn 
+--来自百度网盘超级会员v2的分享
