@@ -6,7 +6,7 @@ i have just receiced a letter from my brother ,tim
 
 he is in australia , he has been there for six months
 
-he is an engineer , he is working for a big firm and has already visited a great mumbers of different places in australia
+tim is an engineer , he is working for a big firm and he has already visited a great mumber of different places in australia
 
 he has just bought an australian car and has gone to alice springs , a small town in the centre of australia
 
